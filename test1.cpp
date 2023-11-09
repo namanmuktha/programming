@@ -16,6 +16,8 @@ long long power(long long a, long long b) {
     return result;
 }
 
+//power of two numbers        
+
 int main() {
     int n;
     while(n--){
